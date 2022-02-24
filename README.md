@@ -6,7 +6,7 @@ In this project, I have implemented 5 ML classification algorithms such as Adabo
 
 
 
-Algorithm	Accuracy Rate	Precision	Recall	Error Rate
+Algorithm| Accuracy| Rate|	Precision|	Recall|	Error Rate
 AdaBoost	0.92	0.99	0.73	0.07
 KNN	0.82	0.60	0.97	0.17
 SVM	0.85	1.0	0.44	0.14
